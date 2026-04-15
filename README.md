@@ -1,8 +1,3 @@
-# Book-My-Ticket
-This is a solid project structure! You’ve followed a clean, modular architecture (MVC-ish) which makes for a professional README. Since this is for a hackathon, I've highlighted the **SQL Transaction** and **Authentication** logic to ensure the evaluators see your "Backend Ninja" skills.
-
----
-
 # 🎟️ Book My Ticket - Backend Ninja
 
 A production-style backend system for a movie ticket booking platform. This project extends a starter codebase to implement a secure authentication layer and a robust, thread-safe seat booking flow using **Node.js, Express, and PostgreSQL**.
